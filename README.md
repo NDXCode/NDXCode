@@ -1,5 +1,6 @@
-- Hi, I’m NDXCode
-- I’m interested in Programming and PCs
-- I’m currently learning C#
-- You can reach me by sending an email to ndxcode@gmail.com
+# WEB and APP developer 
+Knows:
+-HTML, CSS, SCSS, JS, GO, PHP
+-Java, XML, Batch, PY, jQuery,Swift, SQL, React, C#
 
+Learning: N/A
