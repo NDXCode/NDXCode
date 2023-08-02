@@ -1,6 +1,6 @@
 # WEB and APP developer 
 ```diff
-!Knows:
+Knows:
 ```
 ```diff
 +HTML, CSS, SCSS, JS, GO, PHP
@@ -8,7 +8,7 @@
 +Swift, SQL, React, C#
 ```
 ```diff
-!Learning: N/A
+Learning: N/A
 ```
 
 
