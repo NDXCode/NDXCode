@@ -8,7 +8,7 @@ Knows:
 +Swift, SQL, React, C#
 ```
 ```diff
-Learning: N/A
+Learning: C
 ```
 
 
