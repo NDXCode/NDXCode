@@ -3,12 +3,12 @@
 Knows:
 ```
 ```diff
-+HTML, CSS, SCSS, JS, GO, PHP
-+Java, XML, Batch, PY, jQuery
-+Swift, SQL, React, C#
++HTML, CSS, JS, GO, PHP, C#
++Java, Batch, Python, jQuery
++Swift, SQL, React, BASIC
 ```
 ```diff
-Learning: C
+Learning: C, C++
 ```
 
 
