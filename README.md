@@ -13,3 +13,5 @@ Learning: C, C++
 
 
 ### Profile Visitors ![](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fndxcode&labelColor=%23333333&countColor=%232ccce4&style=plastic)
+
+[![NDXCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndxcode)](https://github.com/ndxcode)
